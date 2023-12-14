@@ -1,5 +1,10 @@
-meu primeiro repositorio no git 
+esse e um projeto do frontendMentor      https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 
-esse foi um projeto do frontend mentor https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
+e so card simples com html e csss , o destaque do projeto e basicamente o desing 
 
-o design e ideia são do site , apenas o codigo e 100% meu e minha solução para chellenge
+
+
+
+
+
+![image](https://github.com/law2244/card-Chellange/assets/132855628/1a44a5f0-03f6-4311-9494-45431c5769b1)
